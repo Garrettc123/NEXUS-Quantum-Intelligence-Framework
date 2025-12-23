@@ -1,0 +1,54 @@
+# Dependencies
+node_modules/
+venv/
+env/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+.eggs/
+*.egg-info/
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Testing
+coverage/
+.nyc_output/
+.pytest_cache/
+*.cover
+.coverage
+
+# Build outputs
+dist/
+build/
+*.tar.gz
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
